@@ -1,0 +1,33 @@
+{
+    "Menu":{
+        "appetizers":{
+            "name":["fries","shrimp scampini","bruscetta"],
+            "ingredients":["potatoes","shrimp","bread","tomatoes"],
+            "description":["Try our fresh appitizers, they are made to order using our finest ingredients"]
+        },
+        "cold sandwhiches":{
+            "name":["ham", "turkey","salami"],
+            "ingredients":["lettuce","tomatoes","italian bread","peppers"],
+            "description":["Try our cold sandwhiches! We fresh cut our meat on a daily bases, and use our freshest ingridients!"]
+        
+
+        },
+        "hot sandwhiches":{
+            "type":["basic","grilled", "fried"],
+            "ingredients":["ham","turkey","salami","lettuce","tomatoes","italian bread","peppers"],
+            "description":["do you love out hot sandwhiches? Try our cold sandwhiches! We fresh cut our meat on a daily bases, and use our freshest ingridients!"]
+
+        },
+        "desserts":{
+            "names":["chocolate lava cake","strawberry cheesecake","icecream"],
+            "description":["Try our fresh bakery desserts! Our bakery items are rich and decedent, and are made to order."]
+        },
+        "drinks":{
+            "type":["soda","fresh juice","alcoholic beverages"],
+            "description":["We have a variety of drink options at our restaraunt! From soda, freshly squeezed juices, and a variety of alcholic beverages!"]
+        }
+    }
+     
+    
+    
+}

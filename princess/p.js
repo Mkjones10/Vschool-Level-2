@@ -53,6 +53,7 @@ const user = new Player('Mario')
 const peachSave =(user)=> {
     let random = Math.ceil(Math.random()*3);
     if(user.status ==='Dead'){
+        console.log('game over')
         clearInterval(gameStart)
     }
     else if(random === 1){
